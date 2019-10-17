@@ -5,7 +5,7 @@
 int main()
 {
 	int ch ;
-	printf("ÇëÊäÈëÒ»¸ö×Ö·û:\n");
+	printf("please input char:\n");
 	while ((ch = getchar() )!= EOF)
 	{
 		if (ch >= 'a'&&ch <= 'z')
